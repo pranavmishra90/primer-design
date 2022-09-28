@@ -1,0 +1,1 @@
+This directory contains code which is required to deploy (or use) the repository program, found in `/code`. It also contains media assets which are loaded in the readme files.

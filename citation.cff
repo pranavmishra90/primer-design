@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: Primer-Design
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Pranav
+    family-names: Mishra
+    affiliation: Rush University
+    orcid: "https://orcid.org/0000-0001-5219-6269"
+    email: pranav_k_mishra@rush.edu
+  - given-names: Sai Rama Krishna
+    family-names: Meka
+    affiliation: Rush University
+  - given-names: Anna
+    family-names: Spagnoli
+    affiliation: Rush University
+  - given-names: Alfonso
+    family-names: Torquati
+    affiliation: Rush University
+license:
+  - MIT
+keywords:
+  - Primer3
+  - BLAST
+  - RT-PCR
+  - RT-qPCR
+  - qPCR
+  - PCR
